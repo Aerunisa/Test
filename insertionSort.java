@@ -4,6 +4,7 @@ public class insertionSort {
    {
        int size, i, j, temp;
        int arr[] = new int[50];
+       int arr[] = {51,23,17,32,43,88};
        Scanner scan = new Scanner(System.in);
        
        System.out.print("Enter Array Size : ");
